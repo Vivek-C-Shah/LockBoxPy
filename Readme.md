@@ -68,4 +68,4 @@ To install `PyInstaller`, run the following command:
 The encrypted executable will be saved as in the same directory as the LockBoxPy.py file.
 
 - UD = Under Development
-- WIP = Work In Progress
+- WIP = Work In Progress.
